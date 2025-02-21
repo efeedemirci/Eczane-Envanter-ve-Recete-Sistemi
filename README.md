@@ -1,0 +1,1 @@
+Projede veri tabanı üzerindeki veriyle alakalı güncelleme yapılmak istendiğinde hata vermektedir. En kısa sürede bu hata giderilecektir.
