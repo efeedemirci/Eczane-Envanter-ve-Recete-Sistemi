@@ -1,0 +1,17 @@
+C:\Users\arasm\Desktop\Eczane Envanter ve Reçete Sistemi\Eczane Envanter ve Reçete Sistemi\bin\Debug\Eczane Envanter ve Reçete Sistemi.exe.config
+C:\Users\arasm\Desktop\Eczane Envanter ve Reçete Sistemi\Eczane Envanter ve Reçete Sistemi\bin\Debug\Eczane Envanter ve Reçete Sistemi.exe
+C:\Users\arasm\Desktop\Eczane Envanter ve Reçete Sistemi\Eczane Envanter ve Reçete Sistemi\bin\Debug\Eczane Envanter ve Reçete Sistemi.pdb
+C:\Users\arasm\Desktop\Eczane Envanter ve Reçete Sistemi\Eczane Envanter ve Reçete Sistemi\obj\Debug\Eczane Envanter ve Reçete Sistemi.csproj.AssemblyReference.cache
+C:\Users\arasm\Desktop\Eczane Envanter ve Reçete Sistemi\Eczane Envanter ve Reçete Sistemi\obj\Debug\Eczane_Envanter_ve_Reçete_Sistemi.Form1.resources
+C:\Users\arasm\Desktop\Eczane Envanter ve Reçete Sistemi\Eczane Envanter ve Reçete Sistemi\obj\Debug\Eczane_Envanter_ve_Reçete_Sistemi.Properties.Resources.resources
+C:\Users\arasm\Desktop\Eczane Envanter ve Reçete Sistemi\Eczane Envanter ve Reçete Sistemi\obj\Debug\Eczane Envanter ve Reçete Sistemi.csproj.GenerateResource.cache
+C:\Users\arasm\Desktop\Eczane Envanter ve Reçete Sistemi\Eczane Envanter ve Reçete Sistemi\obj\Debug\Eczane Envanter ve Reçete Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\arasm\Desktop\Eczane Envanter ve Reçete Sistemi\Eczane Envanter ve Reçete Sistemi\obj\Debug\Eczane Envanter ve Reçete Sistemi.exe
+C:\Users\arasm\Desktop\Eczane Envanter ve Reçete Sistemi\Eczane Envanter ve Reçete Sistemi\obj\Debug\Eczane Envanter ve Reçete Sistemi.pdb
+C:\Users\arasm\Desktop\Eczane Envanter ve Reçete Sistemi\Eczane Envanter ve Reçete Sistemi\obj\Debug\Eczane_Envanter_ve_Reçete_Sistemi.Form2.resources
+C:\Users\arasm\Desktop\Eczane Envanter ve Reçete Sistemi\Eczane Envanter ve Reçete Sistemi\obj\Debug\Eczane_Envanter_ve_Reçete_Sistemi.Form3.resources
+C:\Users\arasm\Desktop\Eczane Envanter ve Reçete Sistemi\Eczane Envanter ve Reçete Sistemi\obj\Debug\Eczane_Envanter_ve_Reçete_Sistemi.Form4.resources
+C:\Users\arasm\Desktop\Eczane Envanter ve Reçete Sistemi\Eczane Envanter ve Reçete Sistemi\obj\Debug\Eczane_Envanter_ve_Reçete_Sistemi.Form5.resources
+C:\Users\arasm\Desktop\Eczane Envanter ve Reçete Sistemi\Eczane Envanter ve Reçete Sistemi\obj\Debug\Eczane_Envanter_ve_Reçete_Sistemi.Form6.resources
+C:\Users\arasm\Desktop\Eczane Envanter ve Reçete Sistemi\Eczane Envanter ve Reçete Sistemi\obj\Debug\Eczane_Envanter_ve_Reçete_Sistemi.Form7.resources
+C:\Users\arasm\Desktop\Eczane Envanter ve Reçete Sistemi\Eczane Envanter ve Reçete Sistemi\obj\Debug\Eczane_Envanter_ve_Reçete_Sistemi.Form8.resources
